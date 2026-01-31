@@ -40,7 +40,7 @@ iPhoenix is a CLI-based Open Source Intelligence (OSINT) tool designed for ethic
 ### Setup
 ```bash
 # Clone or download the tool
-git clone https://github.com/yourusername/iphoenix.git
+git clone https://github.com/Phoenix-code14/iPhoenix-.git
 cd iphoenix
 
 # Install dependencies
